@@ -1,0 +1,1 @@
+{"name":"treasure-hours-converter","version":"1.0.0","description":"Convert Fortnite Treasure Hours session times (published in Pacific Time) to any IANA time zone","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://piratetokencalculator.com/"}
